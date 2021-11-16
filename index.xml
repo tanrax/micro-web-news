@@ -8,7 +8,7 @@
     </itunes:owner>
     <itunes:author>Andros Fenollosa</itunes:author>
     <description>Resumen diario en 1 min de lo más interesante que ha ocurrido en HackerNews</description>
-    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <itunes:image href="https://github.com/tanrax/micro-web-news/raw/main/logo.png"/>
     <language>es-es</language>
     <link>https://programadorwebvalencia.com/</link>
     <item>
