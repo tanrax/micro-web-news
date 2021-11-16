@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Micro hack Podcast</title>
+    <itunes:owner>
+        <itunes:email>andros@fenollosa.email</itunes:email>
+    </itunes:owner>
+    <itunes:author>Andros Fenollosa</itunes:author>
+    <description>Resumen diario en 1 min de lo más interesante que ha ocurrido en HackerNews</description>
+    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <language>es-es</language>
+    <link>https://programadorwebvalencia.com/</link>
+    <item>
+      <title>16/11/21</title>
+      <description>Appflowy como alternativa a Notion y Firefox quita su borde en las no destacadas</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/toptenmyths.mp3"
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">Andros</guid>
+    </item>
+  </channel>
+</rss>
